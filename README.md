@@ -1,7 +1,7 @@
 # server-side-api-weather-dashboard
 
 Deployed URL: https://simonmoore23.github.io/server-side-api-weather-dashboard/
-GitHub Repo URL: 
+GitHub Repo URL: https://github.com/simonmoore23/server-side-api-weather-dashboard
 
 ## Description
 
